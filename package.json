@@ -36,6 +36,7 @@
     "cache-manager-redis-store": "^2.0.0",
     "class-transformer": "^0.5.1",
     "class-validator": "^0.13.2",
+    "kafkajs": "^2.2.0",
     "mongo-migrate-ts": "^1.1.1",
     "mongoose": "^6.6.1",
     "reflect-metadata": "^0.1.13",
